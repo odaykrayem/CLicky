@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bogerchan:Nier-Visualizer:v0.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abdd42038b66a1fea9a0f068df86b23/jetified-Nier-Visualizer-v0.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abdd42038b66a1fea9a0f068df86b23/jetified-Nier-Visualizer-v0.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abdd42038b66a1fea9a0f068df86b23/jetified-Nier-Visualizer-v0.1.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bogerchan/Nier-Visualizer/v0.1.3/559dde1263114c0fbffe89aa3022fdeebc740582/Nier-Visualizer-v0.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
